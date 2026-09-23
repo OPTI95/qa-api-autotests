@@ -1,0 +1,18 @@
+{
+  "id": 65003414,
+  "name": "renamed-pet",
+  "photoUrls": [
+    "https://example.com/pet.jpg"
+  ],
+  "category": {
+    "id": 1,
+    "name": "dogs"
+  },
+  "tags": [
+    {
+      "id": 1,
+      "name": "qa-portfolio"
+    }
+  ],
+  "status": "sold"
+}
