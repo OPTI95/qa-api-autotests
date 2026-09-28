@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1790597606,
+    "category": {
+      "id": 1790597606,
+      "name": "dog"
+    },
+    "name": "hello kity with form updated",
+    "photoUrls": [
+      "http://foo.bar.com/1",
+      "http://foo.bar.com/2"
+    ],
+    "tags": [
+      {
+        "id": 1790597606,
+        "name": "swagger-codegen-python-pet-tag"
+      }
+    ],
+    "status": "pending"
+  }
+]
