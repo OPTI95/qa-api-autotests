@@ -1,0 +1,18 @@
+{
+  "id": 45823124,
+  "name": "portfolio-pet",
+  "photoUrls": [
+    "https://example.com/pet.jpg"
+  ],
+  "category": {
+    "id": 1,
+    "name": "dogs"
+  },
+  "tags": [
+    {
+      "id": 1,
+      "name": "qa-portfolio"
+    }
+  ],
+  "status": "available"
+}
