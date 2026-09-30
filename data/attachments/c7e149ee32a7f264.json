@@ -1,0 +1,51 @@
+[
+  {
+    "id": 9223372016900031950,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 105,
+    "category": {
+      "id": 1,
+      "name": "t.baranova"
+    },
+    "name": "Doggy",
+    "photoUrls": [
+      "string",
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 146,
+        "name": "4b96c3b9-5beb-4b40-8039-4111c85ce1e4"
+      },
+      {
+        "id": 4164,
+        "name": "1790768095"
+      },
+      {
+        "id": 333,
+        "name": "595"
+      },
+      {
+        "id": 444,
+        "name": "a4a8f5aa-f515-4f0e-b127-7f7344b834d6"
+      }
+    ],
+    "status": "pending"
+  }
+]
