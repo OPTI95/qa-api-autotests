@@ -1,0 +1,28 @@
+[
+  {
+    "id": 2617965501,
+    "category": {
+      "id": 7,
+      "name": "ferrets"
+    },
+    "name": "F5-00427deba3",
+    "photoUrls": [
+      "https://example.com/n.png"
+    ],
+    "tags": [],
+    "status": "sold"
+  },
+  {
+    "id": 199451007,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "F5-1bbe7188d9",
+    "photoUrls": [
+      "http://example.com/photo.jpg"
+    ],
+    "tags": [],
+    "status": "sold"
+  }
+]
