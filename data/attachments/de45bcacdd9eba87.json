@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1791288687,
+    "category": {
+      "id": 1791288687,
+      "name": "dog"
+    },
+    "name": "hello kity with form updated",
+    "photoUrls": [
+      "http://foo.bar.com/1",
+      "http://foo.bar.com/2"
+    ],
+    "tags": [
+      {
+        "id": 1791288687,
+        "name": "swagger-codegen-python-pet-tag"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 8573,
+    "category": {
+      "id": 3653,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string",
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 2082,
+        "name": "string"
+      },
+      {
+        "id": 3960,
+        "name": "string"
+      }
+    ],
+    "status": "pending"
+  }
+]
