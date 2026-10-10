@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1791629255,
+    "category": {
+      "id": 1791629255,
+      "name": "dog"
+    },
+    "name": "hello kity with form updated",
+    "photoUrls": [
+      "http://foo.bar.com/1",
+      "http://foo.bar.com/2"
+    ],
+    "tags": [
+      {
+        "id": 1791629255,
+        "name": "swagger-codegen-python-pet-tag"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 9223372036854003501,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 190246039032200,
+    "name": "setup190246039016900",
+    "photoUrls": [
+      "https://example.com/190246039032200.jpg"
+    ],
+    "tags": [
+      {
+        "id": 190246039032200,
+        "name": "automation"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 99,
+    "category": {
+      "id": 99,
+      "name": "test_baru122"
+    },
+    "name": "test_baru122",
+    "photoUrls": [
+      "C:\\Users\\Reza Octa Fahlevi\\Downloads\\WhatsApp Image.jpeg"
+    ],
+    "tags": [
+      {
+        "id": 99,
+        "name": "test_baru122"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 664,
+    "category": {
+      "id": 6062,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string",
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 9533,
+        "name": "string"
+      },
+      {
+        "id": 9349,
+        "name": "string"
+      }
+    ],
+    "status": "pending"
+  }
+]
