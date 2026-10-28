@@ -1,0 +1,1762 @@
+[
+  {
+    "id": 2057698658091825142,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091825147,
+    "category": {
+      "id": 101,
+      "name": "dogz"
+    },
+    "name": "fodi",
+    "photoUrls": [
+      "http://fido.jpg"
+    ],
+    "tags": [
+      {
+        "id": 102,
+        "name": "friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 359,
+    "category": {
+      "id": 359,
+      "name": "Melody Goodwin-Mraz"
+    },
+    "name": "Monroe",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 359,
+        "name": "Melody Goodwin-Mraz"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 904,
+    "category": {
+      "id": 904,
+      "name": "Mr. Gerard Schroeder"
+    },
+    "name": "Jaiden",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 904,
+        "name": "Mr. Gerard Schroeder"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091825157,
+    "category": {
+      "id": 101,
+      "name": "dogz"
+    },
+    "name": "fodi",
+    "photoUrls": [
+      "http://fido.jpg"
+    ],
+    "tags": [
+      {
+        "id": 102,
+        "name": "friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091825161,
+    "category": {
+      "id": 101,
+      "name": "dogz"
+    },
+    "name": "fodi",
+    "photoUrls": [
+      "http://fido.jpg"
+    ],
+    "tags": [
+      {
+        "id": 102,
+        "name": "friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 463,
+    "category": {
+      "id": 463,
+      "name": "Rita Bruen"
+    },
+    "name": "Weldon",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 463,
+        "name": "Rita Bruen"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 783,
+    "category": {
+      "id": 783,
+      "name": "Randall Runolfsdottir-Rohan"
+    },
+    "name": "Andy",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 783,
+        "name": "Randall Runolfsdottir-Rohan"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 972,
+    "category": {
+      "id": 972,
+      "name": "Pat Murazik"
+    },
+    "name": "Etha",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 972,
+        "name": "Pat Murazik"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091825170,
+    "category": {
+      "id": 101,
+      "name": "dogz"
+    },
+    "name": "fodi",
+    "photoUrls": [
+      "http://fido.jpg"
+    ],
+    "tags": [
+      {
+        "id": 102,
+        "name": "friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091825171,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091825172,
+    "category": {
+      "id": 101,
+      "name": "dogz"
+    },
+    "name": "fodi",
+    "photoUrls": [
+      "http://fido.jpg"
+    ],
+    "tags": [
+      {
+        "id": 102,
+        "name": "friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 921722286,
+    "category": {
+      "id": 1132131,
+      "name": "test_category"
+    },
+    "name": "test_pet_for_api_tool",
+    "photoUrls": [
+      "http://example.com/photo.jpg"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "test_tag"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 922337201765112612,
+    "category": {
+      "id": 1,
+      "name": "dogs"
+    },
+    "name": "fido",
+    "photoUrls": [],
+    "tags": [
+      {
+        "id": 1,
+        "name": "friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091825173,
+    "category": {
+      "id": 101,
+      "name": "dogz"
+    },
+    "name": "fodi",
+    "photoUrls": [
+      "http://fido.jpg"
+    ],
+    "tags": [
+      {
+        "id": 102,
+        "name": "friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091825174,
+    "category": {
+      "id": 101,
+      "name": "dogz"
+    },
+    "name": "fodi",
+    "photoUrls": [
+      "http://fido.jpg"
+    ],
+    "tags": [
+      {
+        "id": 102,
+        "name": "friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091825175,
+    "category": {
+      "id": 101,
+      "name": "dogz"
+    },
+    "name": "fodi",
+    "photoUrls": [
+      "http://fido.jpg"
+    ],
+    "tags": [
+      {
+        "id": 102,
+        "name": "friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 922337205610979940,
+    "category": {
+      "id": 1,
+      "name": "dogs"
+    },
+    "name": "fido",
+    "photoUrls": [],
+    "tags": [
+      {
+        "id": 1,
+        "name": "friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091825185,
+    "category": {
+      "id": 101,
+      "name": "dogz"
+    },
+    "name": "fodi",
+    "photoUrls": [
+      "http://fido.jpg"
+    ],
+    "tags": [
+      {
+        "id": 102,
+        "name": "friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2525,
+    "category": {
+      "id": 15,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 712,
+    "category": {
+      "id": 712,
+      "name": "Wanda Beier DDS"
+    },
+    "name": "Brigitte",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 712,
+        "name": "Wanda Beier DDS"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 505,
+    "category": {
+      "id": 505,
+      "name": "Marlon Glover DVM"
+    },
+    "name": "Elyse",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 505,
+        "name": "Marlon Glover DVM"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 313,
+    "category": {
+      "id": 313,
+      "name": "Clifton Haley"
+    },
+    "name": "Jarod",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 313,
+        "name": "Clifton Haley"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091825196,
+    "category": {
+      "id": 101,
+      "name": "dogz"
+    },
+    "name": "fodi",
+    "photoUrls": [
+      "http://fido.jpg"
+    ],
+    "tags": [
+      {
+        "id": 102,
+        "name": "friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091825201,
+    "category": {
+      "id": 1,
+      "name": "cat1"
+    },
+    "name": "purplefieldstester1",
+    "photoUrls": [
+      "https://purplefieldstestimage1",
+      "https://purplefieldstestimage2"
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "naughty1"
+      },
+      {
+        "id": 2,
+        "name": "nice1"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091825202,
+    "category": {
+      "id": 2,
+      "name": "cat"
+    },
+    "name": "purplefieldstester10445680351",
+    "photoUrls": [
+      "http://purplefieldstestimage1",
+      "http://purplefieldstestimage2"
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "naughty"
+      },
+      {
+        "id": 2,
+        "name": "nice"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 3,
+    "category": {
+      "id": 3,
+      "name": "cat"
+    },
+    "name": "purplefieldstester2",
+    "photoUrls": [
+      "http://purplefieldstestimage1",
+      "http://purplefieldstestimage2"
+    ],
+    "tags": [
+      {
+        "id": 3,
+        "name": "naughty"
+      },
+      {
+        "id": 4,
+        "name": "nice"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091825209,
+    "category": {
+      "id": 101,
+      "name": "dogz"
+    },
+    "name": "fodi",
+    "photoUrls": [
+      "http://fido.jpg"
+    ],
+    "tags": [
+      {
+        "id": 102,
+        "name": "friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 112233,
+    "category": {
+      "id": 30,
+      "name": "Eq-dog"
+    },
+    "name": "Postman",
+    "photoUrls": [
+      "URLLink"
+    ],
+    "tags": [
+      {
+        "id": 10,
+        "name": "Doberman"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091825213,
+    "category": {
+      "id": 101,
+      "name": "dogz"
+    },
+    "name": "fodi",
+    "photoUrls": [
+      "http://fido.jpg"
+    ],
+    "tags": [
+      {
+        "id": 102,
+        "name": "friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 895,
+    "category": {
+      "id": 895,
+      "name": "Marion Metz"
+    },
+    "name": "Nayeli",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 895,
+        "name": "Marion Metz"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 130,
+    "category": {
+      "id": 130,
+      "name": "Sylvester Lynch"
+    },
+    "name": "Wilfredo",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 130,
+        "name": "Sylvester Lynch"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091825216,
+    "category": {
+      "id": 101,
+      "name": "dogz"
+    },
+    "name": "fodi",
+    "photoUrls": [
+      "http://fido.jpg"
+    ],
+    "tags": [
+      {
+        "id": 102,
+        "name": "friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091825217,
+    "category": {
+      "id": 101,
+      "name": "dogz"
+    },
+    "name": "fodi",
+    "photoUrls": [
+      "http://fido.jpg"
+    ],
+    "tags": [
+      {
+        "id": 102,
+        "name": "friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091825222,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091825223,
+    "category": {
+      "id": 101,
+      "name": "dogz"
+    },
+    "name": "fodi",
+    "photoUrls": [
+      "http://fido.jpg"
+    ],
+    "tags": [
+      {
+        "id": 102,
+        "name": "friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 504502555,
+    "category": {
+      "id": 1132131,
+      "name": "test_category"
+    },
+    "name": "test_pet_for_api_tool",
+    "photoUrls": [
+      "http://example.com/photo.jpg"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "test_tag"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 990,
+    "category": {
+      "id": 990,
+      "name": "Mrs. Silvia Stehr"
+    },
+    "name": "Wilton",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 990,
+        "name": "Mrs. Silvia Stehr"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 152,
+    "category": {
+      "id": 152,
+      "name": "Jeff Turner MD"
+    },
+    "name": "Lamar",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 152,
+        "name": "Jeff Turner MD"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 663,
+    "category": {
+      "id": 663,
+      "name": "Julie Raynor"
+    },
+    "name": "Jarvis",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 663,
+        "name": "Julie Raynor"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091825228,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091825229,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 922337209821522631,
+    "category": {
+      "id": 1,
+      "name": "dogs"
+    },
+    "name": "fido",
+    "photoUrls": [],
+    "tags": [
+      {
+        "id": 1,
+        "name": "friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1013,
+    "name": "Buddy",
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 1001,
+    "name": "Buddy",
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 1002,
+    "name": "Buddy",
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 1003,
+    "name": "Buddy",
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 1005,
+    "name": "Buddy",
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 1006,
+    "name": "Buddy",
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 1007,
+    "name": "Buddy",
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 922337204763501100,
+    "category": {
+      "id": 1,
+      "name": "dogs"
+    },
+    "name": "fido",
+    "photoUrls": [],
+    "tags": [
+      {
+        "id": 1,
+        "name": "friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1010,
+    "name": "Buddy",
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091825238,
+    "category": {
+      "id": 101,
+      "name": "dogz"
+    },
+    "name": "fodi",
+    "photoUrls": [
+      "http://fido.jpg"
+    ],
+    "tags": [
+      {
+        "id": 102,
+        "name": "friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 922337201820439894,
+    "category": {
+      "id": 1,
+      "name": "dogs"
+    },
+    "name": "fido",
+    "photoUrls": [],
+    "tags": [
+      {
+        "id": 1,
+        "name": "friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091825248,
+    "category": {
+      "id": 101,
+      "name": "dogz"
+    },
+    "name": "fodi",
+    "photoUrls": [
+      "http://fido.jpg"
+    ],
+    "tags": [
+      {
+        "id": 102,
+        "name": "friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091825249,
+    "category": {
+      "id": 101,
+      "name": "dogz"
+    },
+    "name": "fodi",
+    "photoUrls": [
+      "http://fido.jpg"
+    ],
+    "tags": [
+      {
+        "id": 102,
+        "name": "friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 733,
+    "category": {
+      "id": 733,
+      "name": "Kyle Blick"
+    },
+    "name": "Kasey",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 733,
+        "name": "Kyle Blick"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 139,
+    "category": {
+      "id": 139,
+      "name": "Jenny Ratke"
+    },
+    "name": "Vivianne",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 139,
+        "name": "Jenny Ratke"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 74,
+    "category": {
+      "id": 74,
+      "name": "Irving Cassin"
+    },
+    "name": "Braxton",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 74,
+        "name": "Irving Cassin"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091825383,
+    "category": {
+      "id": 101,
+      "name": "dogz"
+    },
+    "name": "fodi",
+    "photoUrls": [
+      "http://fido.jpg"
+    ],
+    "tags": [
+      {
+        "id": 102,
+        "name": "friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091825392,
+    "category": {
+      "id": 101,
+      "name": "dogz"
+    },
+    "name": "fodi",
+    "photoUrls": [
+      "http://fido.jpg"
+    ],
+    "tags": [
+      {
+        "id": 102,
+        "name": "friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091825393,
+    "category": {
+      "id": 101,
+      "name": "dogz"
+    },
+    "name": "fodi",
+    "photoUrls": [
+      "http://fido.jpg"
+    ],
+    "tags": [
+      {
+        "id": 102,
+        "name": "friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091825394,
+    "category": {
+      "id": 101,
+      "name": "dogz"
+    },
+    "name": "fodi",
+    "photoUrls": [
+      "http://fido.jpg"
+    ],
+    "tags": [
+      {
+        "id": 102,
+        "name": "friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 732,
+    "category": {
+      "id": 732,
+      "name": "Sherry Gerhold"
+    },
+    "name": "Lacey",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 732,
+        "name": "Sherry Gerhold"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 363,
+    "category": {
+      "id": 363,
+      "name": "Gabriel Corwin II"
+    },
+    "name": "Marlen",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 363,
+        "name": "Gabriel Corwin II"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 28,
+    "category": {
+      "id": 28,
+      "name": "Phyllis Romaguera"
+    },
+    "name": "Dayna",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 28,
+        "name": "Phyllis Romaguera"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091825402,
+    "category": {
+      "id": 0,
+      "name": "puppy"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "Charlie"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091825403,
+    "name": "siyaan",
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091825404,
+    "category": {
+      "id": 101,
+      "name": "dogz"
+    },
+    "name": "fodi",
+    "photoUrls": [
+      "http://fido.jpg"
+    ],
+    "tags": [
+      {
+        "id": 102,
+        "name": "friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091825473,
+    "category": {
+      "id": 101,
+      "name": "dogz"
+    },
+    "name": "fodi",
+    "photoUrls": [
+      "http://fido.jpg"
+    ],
+    "tags": [
+      {
+        "id": 102,
+        "name": "friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091825556,
+    "category": {
+      "id": 101,
+      "name": "dogz"
+    },
+    "name": "fodi",
+    "photoUrls": [
+      "http://fido.jpg"
+    ],
+    "tags": [
+      {
+        "id": 102,
+        "name": "friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 497,
+    "category": {
+      "id": 497,
+      "name": "Kelly Howe"
+    },
+    "name": "Eleanora",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 497,
+        "name": "Kelly Howe"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 516,
+    "category": {
+      "id": 516,
+      "name": "Doug Hudson"
+    },
+    "name": "Zoila",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 516,
+        "name": "Doug Hudson"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 517,
+    "category": {
+      "id": 517,
+      "name": "Archie Breitenberg"
+    },
+    "name": "Marlene",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 517,
+        "name": "Archie Breitenberg"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091825651,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 211165333,
+    "category": {
+      "id": 1132131,
+      "name": "test_category"
+    },
+    "name": "test_pet_for_api_tool",
+    "photoUrls": [
+      "http://example.com/photo.jpg"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "test_tag"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2,
+    "name": "Doggie",
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 1008,
+    "name": "Buddy",
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 1009,
+    "name": "Buddy",
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091825781,
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091825783,
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 101,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Buddy",
+    "photoUrls": [
+      "https://example.com/buddy.jpg"
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "test"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1004,
+    "name": "Buddy",
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 449,
+    "category": {
+      "id": 449,
+      "name": "Ms. Susie Lowe"
+    },
+    "name": "Lillian",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 449,
+        "name": "Ms. Susie Lowe"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 986,
+    "category": {
+      "id": 986,
+      "name": "Cynthia Kautzer"
+    },
+    "name": "Joseph",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 986,
+        "name": "Cynthia Kautzer"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091825897,
+    "category": {
+      "id": 101,
+      "name": "dogz"
+    },
+    "name": "fodi",
+    "photoUrls": [
+      "http://fido.jpg"
+    ],
+    "tags": [
+      {
+        "id": 102,
+        "name": "friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091826002,
+    "category": {
+      "id": 101,
+      "name": "dogz"
+    },
+    "name": "fodi",
+    "photoUrls": [
+      "http://fido.jpg"
+    ],
+    "tags": [
+      {
+        "id": 102,
+        "name": "friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 278,
+    "category": {
+      "id": 278,
+      "name": "Brad Deckow"
+    },
+    "name": "Archibald",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 278,
+        "name": "Brad Deckow"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 219,
+    "category": {
+      "id": 219,
+      "name": "Marta Wehner"
+    },
+    "name": "Athena",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 219,
+        "name": "Marta Wehner"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 848,
+    "category": {
+      "id": 848,
+      "name": "Lamar McKenzie"
+    },
+    "name": "Naomi",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 848,
+        "name": "Lamar McKenzie"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 922337209047363444,
+    "category": {
+      "id": 1,
+      "name": "dogs"
+    },
+    "name": "fido",
+    "photoUrls": [],
+    "tags": [
+      {
+        "id": 1,
+        "name": "friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091826024,
+    "category": {
+      "id": 101,
+      "name": "dogz"
+    },
+    "name": "fodi",
+    "photoUrls": [
+      "http://fido.jpg"
+    ],
+    "tags": [
+      {
+        "id": 102,
+        "name": "friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091826025,
+    "category": {
+      "id": 101,
+      "name": "dogz"
+    },
+    "name": "fodi",
+    "photoUrls": [
+      "http://fido.jpg"
+    ],
+    "tags": [
+      {
+        "id": 102,
+        "name": "friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091826026,
+    "category": {
+      "id": 101,
+      "name": "dogz"
+    },
+    "name": "fodi",
+    "photoUrls": [
+      "http://fido.jpg"
+    ],
+    "tags": [
+      {
+        "id": 102,
+        "name": "friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 635,
+    "category": {
+      "id": 635,
+      "name": "Dwight Okuneva I"
+    },
+    "name": "Sarah",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 635,
+        "name": "Dwight Okuneva I"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 859,
+    "category": {
+      "id": 859,
+      "name": "Ramon Sipes III"
+    },
+    "name": "Paula",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 859,
+        "name": "Ramon Sipes III"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091826029,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091826031,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 397067,
+    "category": {
+      "id": 10,
+      "name": "cupiditate"
+    },
+    "name": "Rodrigo",
+    "photoUrls": [
+      "https://picsum.photos/348/155"
+    ],
+    "tags": [
+      {
+        "id": 100,
+        "name": "eos"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091826045,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1,
+    "category": {
+      "id": 1,
+      "name": "Gaurab Kutta"
+    },
+    "name": "Gaurab",
+    "photoUrls": [],
+    "tags": [
+      {
+        "id": 1,
+        "name": "Gaurab Kuttriya"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 474,
+    "category": {
+      "id": 474,
+      "name": "Miss Bobbie Crooks"
+    },
+    "name": "Enoch",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 474,
+        "name": "Miss Bobbie Crooks"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 279,
+    "category": {
+      "id": 279,
+      "name": "Christy Gerhold"
+    },
+    "name": "Myles",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 279,
+        "name": "Christy Gerhold"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 465,
+    "category": {
+      "id": 465,
+      "name": "Roderick Crooks"
+    },
+    "name": "Jonathan",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 465,
+        "name": "Roderick Crooks"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091826048,
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091826049,
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091826050,
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 2057698658091826051,
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 15890,
+    "category": {
+      "id": 1,
+      "name": "dogs"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "https://example.com/dog.jpg"
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "friendly"
+      }
+    ],
+    "status": "available"
+  }
+]
