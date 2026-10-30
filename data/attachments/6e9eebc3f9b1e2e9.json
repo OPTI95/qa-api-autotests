@@ -1,0 +1,408 @@
+[
+  {
+    "id": 9,
+    "category": {
+      "id": 0,
+      "name": "cats"
+    },
+    "name": "newname",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 12,
+    "category": {
+      "id": 1,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 987654325,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 987654326,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Missing PhotoUrls Test",
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001231898,
+    "category": {
+      "id": 1,
+      "name": "category pet"
+    },
+    "name": "pet name",
+    "status": "available"
+  },
+  {
+    "id": 9223372000001231899,
+    "category": {
+      "id": 1,
+      "name": "category pet"
+    },
+    "name": "pet name",
+    "status": "available"
+  },
+  {
+    "id": 2563007928,
+    "category": {
+      "id": 429955747,
+      "name": "dog"
+    },
+    "name": "newname",
+    "photoUrls": [
+      "http://foo.bar.com/1",
+      "http://foo.bar.com/2"
+    ],
+    "tags": [
+      {
+        "id": 1074133194,
+        "name": "openapi-generator-python-pet-tag"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 845763652,
+    "name": "Rex_454",
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001231912,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 904278307,
+    "name": "Rex_3779",
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 2,
+    "name": "Doggie",
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 323871342,
+    "name": "Rex_8889",
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 98992,
+    "category": {
+      "id": 8149,
+      "name": "{Category}"
+    },
+    "name": "{Pet_name}",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 477,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 43108,
+    "category": {
+      "id": 2117,
+      "name": "{Category}"
+    },
+    "name": "{Pet_name}",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 502,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 11613,
+    "category": {
+      "id": 2018,
+      "name": "{Category}"
+    },
+    "name": "{Pet_name}",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 541,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 55,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "runner",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 630152359,
+    "name": "Rex_9054",
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001232607,
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001232654,
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001232661,
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001232663,
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 731050,
+    "category": {
+      "id": 7,
+      "name": "neque"
+    },
+    "name": "Calebe",
+    "photoUrls": [
+      "https://picsum.photos/210/321"
+    ],
+    "tags": [
+      {
+        "id": 70,
+        "name": "eos"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 990001,
+    "name": "qa-practice-dog",
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 57516,
+    "category": {
+      "id": 2597,
+      "name": "{Category}"
+    },
+    "name": "{Pet_name}",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 232,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 40,
+    "category": {
+      "id": 10,
+      "name": "Cat"
+    },
+    "name": "pet10",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 50,
+    "category": {
+      "id": 10,
+      "name": "Cat"
+    },
+    "name": "pet10",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 60,
+    "category": {
+      "id": 10,
+      "name": "Cat"
+    },
+    "name": "pet10",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 70,
+    "category": {
+      "id": 10,
+      "name": "Cat"
+    },
+    "name": "pet10",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 80,
+    "category": {
+      "id": 10,
+      "name": "Cat"
+    },
+    "name": "pet10",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 65851,
+    "category": {
+      "id": 4853,
+      "name": "Predators"
+    },
+    "name": "Tiger",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 953,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  }
+]
