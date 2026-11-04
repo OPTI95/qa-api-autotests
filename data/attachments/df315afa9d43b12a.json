@@ -1,0 +1,70 @@
+[
+  {
+    "id": 16,
+    "name": "Simons hund sami",
+    "photoUrls": [
+      "https://example.com/hund.jpg"
+    ],
+    "tags": [],
+    "status": "pending"
+  },
+  {
+    "id": 225,
+    "category": {
+      "id": 378,
+      "name": "vFsyGPPf"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "l3p22pr",
+      "IIIQKprlS",
+      "A3w",
+      "NMfyBzD0"
+    ],
+    "tags": [
+      {
+        "id": 345,
+        "name": "7jrzH0XR"
+      },
+      {
+        "id": 135,
+        "name": "Ckm"
+      },
+      {
+        "id": 768,
+        "name": "qZR"
+      },
+      {
+        "id": 39,
+        "name": "lGWQ"
+      },
+      {
+        "id": 892,
+        "name": "hQXNqfShO"
+      },
+      {
+        "id": 270,
+        "name": "RbZ"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 12345789,
+    "category": {
+      "id": 1,
+      "name": "dog"
+    },
+    "name": "snoopie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "pending"
+  }
+]
