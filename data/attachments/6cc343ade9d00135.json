@@ -1,0 +1,162 @@
+[
+  {
+    "id": 9223372000001085649,
+    "category": {
+      "id": 86059836,
+      "name": "adipisicing in reprehen"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "",
+      "elit velit"
+    ],
+    "tags": [
+      {
+        "id": -66663367,
+        "name": "commodo velit"
+      },
+      {
+        "id": 95735457,
+        "name": "deserunt ex incididunt"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 9223372000001085650,
+    "category": {
+      "id": -29575580,
+      "name": "aliqua Excepteur magna"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "commodo minim nisi",
+      "tempor magna"
+    ],
+    "tags": [
+      {
+        "id": -52248637,
+        "name": "exercitation irure sunt laborum"
+      },
+      {
+        "id": -59740185,
+        "name": "labore dolore"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 57346572,
+    "name": "fenya-superPuper-cat",
+    "photoUrls": [
+      "./cat.png"
+    ],
+    "tags": [],
+    "status": "pending"
+  },
+  {
+    "id": 9223372000001085922,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 5250,
+    "category": {
+      "id": 2680,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string",
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 3426,
+        "name": "string"
+      },
+      {
+        "id": 9030,
+        "name": "string"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 9223372000001086145,
+    "category": {
+      "id": 86059836,
+      "name": "adipisicing in reprehen"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "",
+      "elit velit"
+    ],
+    "tags": [
+      {
+        "id": -66663367,
+        "name": "commodo velit"
+      },
+      {
+        "id": 95735457,
+        "name": "deserunt ex incididunt"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 9223372000001086146,
+    "category": {
+      "id": -29575580,
+      "name": "aliqua Excepteur magna"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "commodo minim nisi",
+      "tempor magna"
+    ],
+    "tags": [
+      {
+        "id": -52248637,
+        "name": "exercitation irure sunt laborum"
+      },
+      {
+        "id": -59740185,
+        "name": "labore dolore"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 499996,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "UpdatedWorkflowDog-499996",
+    "photoUrls": [
+      "https://example.com/photo1.jpg"
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "test-tag"
+      }
+    ],
+    "status": "pending"
+  }
+]
