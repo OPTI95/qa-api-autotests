@@ -1,0 +1,43 @@
+[
+  {
+    "id": 9223372000001085346,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 5250,
+    "category": {
+      "id": 2680,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string",
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 3426,
+        "name": "string"
+      },
+      {
+        "id": 9030,
+        "name": "string"
+      }
+    ],
+    "status": "pending"
+  }
+]
