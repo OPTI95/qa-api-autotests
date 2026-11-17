@@ -1,0 +1,529 @@
+[
+  {
+    "id": 1794924231,
+    "category": {
+      "id": 1794924231,
+      "name": "dog"
+    },
+    "name": "hello kity with form updated",
+    "photoUrls": [
+      "http://foo.bar.com/1",
+      "http://foo.bar.com/2"
+    ],
+    "tags": [
+      {
+        "id": 1794924231,
+        "name": "swagger-codegen-python-pet-tag"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 1794924254,
+    "category": {
+      "id": 1794924254,
+      "name": "dog"
+    },
+    "name": "hello kity with form updated",
+    "photoUrls": [
+      "http://foo.bar.com/1",
+      "http://foo.bar.com/2"
+    ],
+    "tags": [
+      {
+        "id": 1794924254,
+        "name": "swagger-codegen-python-pet-tag"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 1794924263,
+    "category": {
+      "id": 1794924263,
+      "name": "dog"
+    },
+    "name": "hello kity with form updated",
+    "photoUrls": [
+      "http://foo.bar.com/1",
+      "http://foo.bar.com/2"
+    ],
+    "tags": [
+      {
+        "id": 1794924263,
+        "name": "swagger-codegen-python-pet-tag"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 1794924302,
+    "category": {
+      "id": 1794924302,
+      "name": "dog"
+    },
+    "name": "hello kity with form updated",
+    "photoUrls": [
+      "http://foo.bar.com/1",
+      "http://foo.bar.com/2"
+    ],
+    "tags": [
+      {
+        "id": 1794924302,
+        "name": "swagger-codegen-python-pet-tag"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 1794924318,
+    "category": {
+      "id": 1794924318,
+      "name": "dog"
+    },
+    "name": "hello kity with form updated",
+    "photoUrls": [
+      "http://foo.bar.com/1",
+      "http://foo.bar.com/2"
+    ],
+    "tags": [
+      {
+        "id": 1794924318,
+        "name": "swagger-codegen-python-pet-tag"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 1794924348,
+    "category": {
+      "id": 1794924348,
+      "name": "dog"
+    },
+    "name": "hello kity with form updated",
+    "photoUrls": [
+      "http://foo.bar.com/1",
+      "http://foo.bar.com/2"
+    ],
+    "tags": [
+      {
+        "id": 1794924348,
+        "name": "swagger-codegen-python-pet-tag"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 1794924381,
+    "category": {
+      "id": 1794924381,
+      "name": "dog"
+    },
+    "name": "hello kity with form updated",
+    "photoUrls": [
+      "http://foo.bar.com/1",
+      "http://foo.bar.com/2"
+    ],
+    "tags": [
+      {
+        "id": 1794924381,
+        "name": "swagger-codegen-python-pet-tag"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 1794924383,
+    "category": {
+      "id": 1794924383,
+      "name": "dog"
+    },
+    "name": "hello kity with form updated",
+    "photoUrls": [
+      "http://foo.bar.com/1",
+      "http://foo.bar.com/2"
+    ],
+    "tags": [
+      {
+        "id": 1794924383,
+        "name": "swagger-codegen-python-pet-tag"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 1794924415,
+    "category": {
+      "id": 1794924415,
+      "name": "dog"
+    },
+    "name": "hello kity with form updated",
+    "photoUrls": [
+      "http://foo.bar.com/1",
+      "http://foo.bar.com/2"
+    ],
+    "tags": [
+      {
+        "id": 1794924415,
+        "name": "swagger-codegen-python-pet-tag"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 1794924418,
+    "category": {
+      "id": 1794924418,
+      "name": "dog"
+    },
+    "name": "hello kity with form updated",
+    "photoUrls": [
+      "http://foo.bar.com/1",
+      "http://foo.bar.com/2"
+    ],
+    "tags": [
+      {
+        "id": 1794924418,
+        "name": "swagger-codegen-python-pet-tag"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 1794924434,
+    "category": {
+      "id": 1794924434,
+      "name": "dog"
+    },
+    "name": "hello kity with form updated",
+    "photoUrls": [
+      "http://foo.bar.com/1",
+      "http://foo.bar.com/2"
+    ],
+    "tags": [
+      {
+        "id": 1794924434,
+        "name": "swagger-codegen-python-pet-tag"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 1794924436,
+    "category": {
+      "id": 1794924436,
+      "name": "dog"
+    },
+    "name": "hello kity with form updated",
+    "photoUrls": [
+      "http://foo.bar.com/1",
+      "http://foo.bar.com/2"
+    ],
+    "tags": [
+      {
+        "id": 1794924436,
+        "name": "swagger-codegen-python-pet-tag"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 1794924595,
+    "category": {
+      "id": 1794924595,
+      "name": "dog"
+    },
+    "name": "hello kity with form updated",
+    "photoUrls": [
+      "http://foo.bar.com/1",
+      "http://foo.bar.com/2"
+    ],
+    "tags": [
+      {
+        "id": 1794924595,
+        "name": "swagger-codegen-python-pet-tag"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 1794924631,
+    "category": {
+      "id": 1794924631,
+      "name": "dog"
+    },
+    "name": "hello kity with form updated",
+    "photoUrls": [
+      "http://foo.bar.com/1",
+      "http://foo.bar.com/2"
+    ],
+    "tags": [
+      {
+        "id": 1794924631,
+        "name": "swagger-codegen-python-pet-tag"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 1794924637,
+    "category": {
+      "id": 1794924637,
+      "name": "dog"
+    },
+    "name": "hello kity with form updated",
+    "photoUrls": [
+      "http://foo.bar.com/1",
+      "http://foo.bar.com/2"
+    ],
+    "tags": [
+      {
+        "id": 1794924637,
+        "name": "swagger-codegen-python-pet-tag"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 1794924643,
+    "category": {
+      "id": 1794924643,
+      "name": "dog"
+    },
+    "name": "hello kity with form updated",
+    "photoUrls": [
+      "http://foo.bar.com/1",
+      "http://foo.bar.com/2"
+    ],
+    "tags": [
+      {
+        "id": 1794924643,
+        "name": "swagger-codegen-python-pet-tag"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 1794924659,
+    "category": {
+      "id": 1794924659,
+      "name": "dog"
+    },
+    "name": "hello kity with form updated",
+    "photoUrls": [
+      "http://foo.bar.com/1",
+      "http://foo.bar.com/2"
+    ],
+    "tags": [
+      {
+        "id": 1794924659,
+        "name": "swagger-codegen-python-pet-tag"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 1794924664,
+    "category": {
+      "id": 1794924664,
+      "name": "dog"
+    },
+    "name": "hello kity with form updated",
+    "photoUrls": [
+      "http://foo.bar.com/1",
+      "http://foo.bar.com/2"
+    ],
+    "tags": [
+      {
+        "id": 1794924664,
+        "name": "swagger-codegen-python-pet-tag"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 1794924678,
+    "category": {
+      "id": 1794924678,
+      "name": "dog"
+    },
+    "name": "hello kity with form updated",
+    "photoUrls": [
+      "http://foo.bar.com/1",
+      "http://foo.bar.com/2"
+    ],
+    "tags": [
+      {
+        "id": 1794924678,
+        "name": "swagger-codegen-python-pet-tag"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 1794924679,
+    "category": {
+      "id": 1794924679,
+      "name": "dog"
+    },
+    "name": "hello kity with form updated",
+    "photoUrls": [
+      "http://foo.bar.com/1",
+      "http://foo.bar.com/2"
+    ],
+    "tags": [
+      {
+        "id": 1794924679,
+        "name": "swagger-codegen-python-pet-tag"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 1794924693,
+    "category": {
+      "id": 1794924693,
+      "name": "dog"
+    },
+    "name": "hello kity with form updated",
+    "photoUrls": [
+      "http://foo.bar.com/1",
+      "http://foo.bar.com/2"
+    ],
+    "tags": [
+      {
+        "id": 1794924693,
+        "name": "swagger-codegen-python-pet-tag"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 1794924748,
+    "category": {
+      "id": 1794924748,
+      "name": "dog"
+    },
+    "name": "hello kity with form updated",
+    "photoUrls": [
+      "http://foo.bar.com/1",
+      "http://foo.bar.com/2"
+    ],
+    "tags": [
+      {
+        "id": 1794924748,
+        "name": "swagger-codegen-python-pet-tag"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 1794925667,
+    "category": {
+      "id": 1794925667,
+      "name": "dog"
+    },
+    "name": "hello kity with form updated",
+    "photoUrls": [
+      "http://foo.bar.com/1",
+      "http://foo.bar.com/2"
+    ],
+    "tags": [
+      {
+        "id": 1794925667,
+        "name": "swagger-codegen-python-pet-tag"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 111,
+    "category": {
+      "id": 2,
+      "name": "dogs"
+    },
+    "name": "Sharik",
+    "photoUrls": [
+      "stepik.org"
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "cute"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 861,
+    "category": {
+      "id": 428,
+      "name": "JGd284ggL"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "8ZDmoL5",
+      "t5XO8B",
+      "qONtKddph",
+      "FdvM",
+      "0Dm"
+    ],
+    "tags": [
+      {
+        "id": 778,
+        "name": "vkZqsBC"
+      },
+      {
+        "id": 747,
+        "name": "xKNEDBIjL"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 1082,
+    "category": {
+      "id": 101,
+      "name": "testcategory"
+    },
+    "name": "getcat",
+    "photoUrls": [
+      "a.png",
+      "b.png"
+    ],
+    "tags": [
+      {
+        "id": 102,
+        "name": "testtag1"
+      },
+      {
+        "id": 103,
+        "name": "testtag2"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 1803,
+    "category": {
+      "id": 101,
+      "name": "testcategory"
+    },
+    "name": "getcat",
+    "photoUrls": [
+      "a.png",
+      "b.png"
+    ],
+    "tags": [
+      {
+        "id": 102,
+        "name": "testtag1"
+      },
+      {
+        "id": 103,
+        "name": "testtag2"
+      }
+    ],
+    "status": "pending"
+  }
+]
