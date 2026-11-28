@@ -1,0 +1,2323 @@
+[
+  {
+    "id": 801785162,
+    "category": {
+      "id": 1132131,
+      "name": "test_category"
+    },
+    "name": "test_pet_for_api_tool",
+    "photoUrls": [
+      "http://example.com/photo.jpg"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "test_tag"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 122309540,
+    "category": {
+      "id": 1132131,
+      "name": "test_category"
+    },
+    "name": "test_pet_for_api_tool",
+    "photoUrls": [
+      "http://example.com/photo.jpg"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "test_tag"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001093436,
+    "name": "PawMatch-QA-Biscuit",
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001093455,
+    "name": "dgh9jcabed",
+    "photoUrls": [
+      "dgh9jcabed"
+    ],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001093473,
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 416082275,
+    "category": {
+      "id": 1132131,
+      "name": "test_category"
+    },
+    "name": "test_pet_for_api_tool",
+    "photoUrls": [
+      "http://example.com/photo.jpg"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "test_tag"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 235640918,
+    "category": {
+      "id": 1132131,
+      "name": "test_category"
+    },
+    "name": "test_pet_for_api_tool",
+    "photoUrls": [
+      "http://example.com/photo.jpg"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "test_tag"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001093491,
+    "name": "Jimmy",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001093492,
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 1946614652,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1521506335,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1705547946,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1803636703,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 624682907,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 849303956,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 833325231,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 681063352,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 334172814,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1948557118,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 679756791,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 428022975,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 55451644,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 498785117,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1891325289,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1444413961,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1427254050,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001093543,
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 690256568,
+    "category": {
+      "id": 1132131,
+      "name": "test_category"
+    },
+    "name": "test_pet_for_api_tool",
+    "photoUrls": [
+      "http://example.com/photo.jpg"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "test_tag"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001093549,
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 828222270,
+    "category": {
+      "id": 1132131,
+      "name": "test_category"
+    },
+    "name": "test_pet_for_api_tool",
+    "photoUrls": [
+      "http://example.com/photo.jpg"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "test_tag"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001093557,
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 902667537,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1819128458,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001093559,
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 547060617,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1571454165,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 663705407,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 79940849,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1965344423,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1899594819,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001093561,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 681257070,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1684993617,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 768657187,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1505961385,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1384517008,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 162167320,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1857680669,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001093573,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 356880754,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 825892204,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2025887984,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1505521417,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1410995196,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 923940167,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1264058737,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 406006474,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1174556588,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 560520212,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 347210137,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2066637762,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 257562580,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001093607,
+    "name": "PawMatch-QA-Biscuit",
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 1552373491,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1795874270984,
+    "category": {
+      "id": 0,
+      "name": "categoria do pet"
+    },
+    "name": "pet-1795874270984",
+    "photoUrls": [
+      "https://example.com/pet.png"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "cypress"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1795874271204,
+    "category": {
+      "id": 0,
+      "name": "categoria do pet"
+    },
+    "name": "pet-1795874271204",
+    "photoUrls": [
+      "https://example.com/pet.png"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "cypress"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001093610,
+    "category": {
+      "id": 0,
+      "name": "categoria do pet"
+    },
+    "name": "",
+    "photoUrls": [],
+    "tags": [
+      {
+        "id": 0,
+        "name": "cypress"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 12,
+    "category": {
+      "id": 1,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 12345,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "blabla",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 8536,
+    "category": {
+      "id": 6532,
+      "name": "fish"
+    },
+    "name": "nemo",
+    "photoUrls": [
+      "string",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToeIksYvNxk12gpwPHBAYAxV9q0IMlkYhWC_2NVHiAlNOPpyn4efUpx38&s=10"
+    ],
+    "tags": [
+      {
+        "id": 6572,
+        "name": "string"
+      },
+      {
+        "id": 6921,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 853625,
+    "category": {
+      "id": 6532,
+      "name": "fishs"
+    },
+    "name": "nemo fish",
+    "photoUrls": [
+      "string",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToeIksYvNxk12gpwPHBAYAxV9q0IMlkYhWC_2NVHiAlNOPpyn4efUpx38&s=10"
+    ],
+    "tags": [
+      {
+        "id": 6572,
+        "name": "string"
+      },
+      {
+        "id": 6921,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001093643,
+    "name": "Jimmy",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001093645,
+    "category": {
+      "id": 4,
+      "name": "Dogs"
+    },
+    "name": "MissingIdPet",
+    "photoUrls": [
+      "https://example.com/missing-id.jpg"
+    ],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 120,
+    "category": {
+      "id": 5,
+      "name": "cats"
+    },
+    "photoUrls": [
+      "https://example.com/missing-name.jpg"
+    ],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 202611170001,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "PutPetAutomationSource",
+    "photoUrls": [
+      "https://example.com/put-pet-source.jpg"
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "automation"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 202611170762,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "PutPetAutomationSource",
+    "photoUrls": [
+      "https://example.com/put-pet-source.jpg"
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "automation"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1795874606979,
+    "name": "Practice-1795874606979",
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001093675,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 688247251,
+    "category": {
+      "id": 1132131,
+      "name": "test_category"
+    },
+    "name": "test_pet_for_api_tool",
+    "photoUrls": [
+      "http://example.com/photo.jpg"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "test_tag"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001093687,
+    "name": "PawMatch-QA-Biscuit",
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 1838563237,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 536897566,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 19115779,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 639322988,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 443359470,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001093691,
+    "name": "PawMatch-QA-Biscuit",
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001093693,
+    "category": {
+      "id": 4,
+      "name": "Dogs"
+    },
+    "name": "MissingIdPet",
+    "photoUrls": [
+      "https://example.com/missing-id.jpg"
+    ],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 304129604,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1399735445,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1955244348,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1136603786,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 985312010,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1795874918545,
+    "name": "Practice-1795874918545",
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001093703,
+    "name": "PawMatch-QA-Biscuit",
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 1795874935353,
+    "name": "Practice-1795874935353",
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001093709,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001093715,
+    "category": {
+      "id": 4,
+      "name": "Dogs"
+    },
+    "name": "MissingIdPet",
+    "photoUrls": [
+      "https://example.com/missing-id.jpg"
+    ],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001093731,
+    "category": {
+      "id": 4,
+      "name": "Dogs"
+    },
+    "name": "MissingIdPet",
+    "photoUrls": [
+      "https://example.com/missing-id.jpg"
+    ],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001093733,
+    "category": {
+      "id": 4,
+      "name": "Dogs"
+    },
+    "name": "MissingIdPet",
+    "photoUrls": [
+      "https://example.com/missing-id.jpg"
+    ],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 12121,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "TestPetName",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001093747,
+    "name": "Javierito",
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001093760,
+    "category": {
+      "id": 4,
+      "name": "Dogs"
+    },
+    "name": "MissingIdPet",
+    "photoUrls": [
+      "https://example.com/missing-id.jpg"
+    ],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001093774,
+    "category": {
+      "id": 4,
+      "name": "Dogs"
+    },
+    "name": "MissingIdPet",
+    "photoUrls": [
+      "https://example.com/missing-id.jpg"
+    ],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001093775,
+    "name": "Javierito",
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 1795875440036,
+    "name": "Practice-1795875440036",
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 1779733016,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 730215201,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1638602368,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1326881778,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1611730156,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 588983617,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 509315409,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 250233396,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1285367437,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 2005355817,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001093800,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001093836,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "fish",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001093838,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "fish",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001093839,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "fish",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001093845,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1389679823,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1753719570,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1299936957,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 744500713,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1068610982,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001093848,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "fish",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001093852,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "fish",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1795876043463,
+    "name": "Practice-1795876043463",
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001093867,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1297,
+    "category": {
+      "id": 0,
+      "name": "Dog"
+    },
+    "name": "Denise",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "Monday"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1795876256566,
+    "name": "Practice-1795876256566",
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 558998795,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 216840580,
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "name": "Sammie",
+    "photoUrls": [
+      "Screenshot 2026-11-20 at 21.42.40"
+    ],
+    "tags": [
+      {
+        "id": 2,
+        "name": "Friendly"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 526387484,
+    "category": {
+      "id": 1132131,
+      "name": "test_category"
+    },
+    "name": "test_pet_for_api_tool",
+    "photoUrls": [
+      "http://example.com/photo.jpg"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "test_tag"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 939,
+    "category": {
+      "id": 0,
+      "name": "Dog"
+    },
+    "name": "Martin",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "Tuesday"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1795876793426,
+    "name": "Milo-1795876793426",
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 112233,
+    "category": {
+      "id": 30,
+      "name": "Eq-dog"
+    },
+    "name": "Postman",
+    "photoUrls": [
+      "URLLink"
+    ],
+    "tags": [
+      {
+        "id": 10,
+        "name": "Doberman"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 987654,
+    "category": {
+      "id": 0,
+      "name": "Dog"
+    },
+    "name": "Stanislav Test Dog",
+    "photoUrls": [
+      "https://example.invalid/dog.png"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "integration-test"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001093994,
+    "name": "Javierito",
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001094005,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001094006,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001094008,
+    "name": "Javierito",
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 775533,
+    "category": {
+      "id": 0,
+      "name": "String"
+    },
+    "name": "Rex",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001094019,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1795877512747,
+    "name": "Milo-1795877512747",
+    "photoUrls": [],
+    "tags": [],
+    "status": "available"
+  },
+  {
+    "id": 790324,
+    "category": {
+      "id": 10,
+      "name": "ipsum"
+    },
+    "name": "Maria Eduarda",
+    "photoUrls": [
+      "https://placekittens.com/744/218"
+    ],
+    "tags": [
+      {
+        "id": 39,
+        "name": "sint"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 9223372000001094046,
+    "category": {
+      "id": 775533,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  }
+]
